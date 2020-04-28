@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 533686261
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: primitivefigures/rounded
+      Dependencies: {}
+    Info_1:
+      Name: primitivefigures/flat
+      Dependencies: {}

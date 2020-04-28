@@ -1,0 +1,8 @@
+{
+	"flat_figures_names":[
+		"Cube", "Cylinder"
+	],
+	"rounded_figures_names":[
+		"Sphere", "Capsule"
+	]
+}
